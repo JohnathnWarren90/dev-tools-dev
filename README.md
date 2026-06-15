@@ -18,7 +18,7 @@ The goal of this project is to reduce repetitive setup when starting a new proje
 Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/JohnathnWarren90/dev-tools-dev.git
 ```
 
 Build the tool:
