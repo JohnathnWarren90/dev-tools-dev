@@ -131,3 +131,8 @@ Example:
 ## Version
 
 0.0.1
+
+## License
+
+-MIT-
+This software is provided 'as-is', without any express or implied warranty. In no event shall the author be liable for any damages arising from the use of this software.
